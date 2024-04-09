@@ -1,6 +1,6 @@
 # Block-2.EDA_and_Big_Data
 
-## NOTE POUR LE JURY : J'ai crée un autre repository pour l'EDA, voici le lien pour y avoir accés
+## NOTE POUR LE JURY : J'ai créé un autre repository pour l'EDA, voici le lien pour y avoir accés
 https://github.com/NadiaPreuvot/Block.2.EDA-Speed.Dating-Tinder_Project
 
 # Steam Games Analysis with PySpark in Databricks
