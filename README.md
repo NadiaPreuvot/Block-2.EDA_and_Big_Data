@@ -4,6 +4,8 @@
 
 This README summarizes a comprehensive analysis of video games available on Steam, focusing on various aspects like the distribution of games across genres, their availability on different operating systems (Windows, Mac, Linux), and identifying the most popular and lucrative genres. The analysis is performed using PySpark within the Databricks environment.
 
+You can find the link of the notebook : https://community.cloud.databricks.com/?o=2029342077115939#notebook/2807590592639607/command/3575907893182817
+
 ## Dataset
 
 The dataset used for this analysis is stored in a JSON format and includes information about games such as name, developer, publisher, genres, platforms, price, and the number of positive reviews.
