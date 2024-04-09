@@ -1,5 +1,8 @@
 # Block-2.EDA_and_Big_Data
 
+## NOTE POUR LE JURY : J'ai crée un autre repository pour l'EDA, voici le lien pour y avoir accés
+https://github.com/NadiaPreuvot/Block.2.EDA-Speed.Dating-Tinder_Project
+
 # Steam Games Analysis with PySpark in Databricks
 
 This README summarizes a comprehensive analysis of video games available on Steam, focusing on various aspects like the distribution of games across genres, their availability on different operating systems (Windows, Mac, Linux), and identifying the most popular and lucrative genres. The analysis is performed using PySpark within the Databricks environment.
